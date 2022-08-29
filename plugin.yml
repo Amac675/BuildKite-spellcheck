@@ -1,0 +1,9 @@
+name: spell checker
+description: docker spell checker
+author: https://github.com/Amac675
+requirements: []
+configuration:
+  properties:
+    pattern:
+      type: string
+  additionalProperties: false
